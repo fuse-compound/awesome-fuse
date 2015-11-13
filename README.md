@@ -5,14 +5,22 @@
 A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, and examples. Contributions are welcome, please see the [contribution guidelines](CONTRIBUTING.md) first.
 
 - [Applications](#applications)
-- [Examples](#examples)
 - [Community](#community)
+- [Examples](#examples)
 - [Libraries](#libraries)
+- [Plugins](#plugins)
 - [Videos](#videos)
 
 ## Applications
 
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - Android and iOS game calculator.
+
+## Community
+
+- [Forums](https://www.fusetools.com/community/forums) - Official Fuse forums.
+- [Learn](https://www.fusetools.com/learn/fuse) - Getting up and running with Fuse is super easy.
+- [Slack](http://slackcommunity.fusetools.com/) - Official Slack channel.
+- [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
 
 ## Examples
 
@@ -33,15 +41,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Tabs using multi-layout](https://www.fusetools.com/developers/examples/tabsmultilayout) - Set up interesting transitions between pages with multi-layout.
 - [Todo application](https://www.fusetools.com/developers/examples/todoapp) - Learn how to make a todo app with multiple transitions.
 
-
 You can find more examples in [Fuse official examples list](https://www.fusetools.com/examples).
-
-## Community
-
-- [Forums](https://www.fusetools.com/community/forums) - Official Fuse forums.
-- [Learn](https://www.fusetools.com/learn/fuse) - Getting up and running with Fuse is super easy.
-- [Slack](http://slackcommunity.fusetools.com/) - Official Slack channel.
-- [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
 
 ## Libraries
 
