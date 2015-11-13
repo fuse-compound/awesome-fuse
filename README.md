@@ -41,6 +41,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Forums](https://www.fusetools.com/community/forums) - Official Fuse forums.
 - [Learn](https://www.fusetools.com/learn/fuse) - Getting up and running with Fuse is super easy.
 - [Slack](http://slackcommunity.fusetools.com/) - Official Slack channel.
+- [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
 
 ## Libraries
 
