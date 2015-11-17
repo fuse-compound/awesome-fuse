@@ -17,10 +17,12 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 ## Community
 
-- [Forums](https://www.fusetools.com/community/forums) - Official Fuse forums.
+- [Blog](https://www.fusetools.com/blog) - The official Fuse blog.
+- [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
 - [Learn](https://www.fusetools.com/learn/fuse) - Getting up and running with Fuse is super easy.
-- [Slack](http://slackcommunity.fusetools.com/) - Official Slack channel.
 - [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
+- [Slack](http://slackcommunity.fusetools.com/) - The official Slack channel.
+- [Twitter](https://twitter.com/fusetools) - The official Fuse Twitter account.
 
 ## Examples
 
