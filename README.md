@@ -8,6 +8,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Community](#community)
 - [Examples](#examples)
 - [Libraries](#libraries)
+- [Open Source](#open-source)
 - [Plugins](#plugins)
 - [Videos](#videos)
 
@@ -51,6 +52,10 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
 - [OneTimePassword](https://www.fusetools.com/community/forums/show_and_tell/sha1hmacsha1onetimepassword_and_sha256_hashing) - OneTimePassword and SHA256 hashing.
 - [SQLite](https://github.com/bolav/fuse-sqlite) - SQLite library for Fuse tools.
+
+## Open Source
+
+- [Gulp](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 
 ## Plugins
 
