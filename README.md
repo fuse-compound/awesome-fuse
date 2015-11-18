@@ -55,7 +55,8 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 
 ## Open Source
 
-- [Gulp](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
+- [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
+- [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
 
 ## Plugins
 
