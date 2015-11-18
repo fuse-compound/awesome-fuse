@@ -50,7 +50,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 
 - [FileOps](https://www.fusetools.com/community/forums/show_and_tell/fileops_javascript_module) - FileOps JavaScript module.
 - [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
-- [OneTimePassword](https://www.fusetools.com/community/forums/show_and_tell/sha1hmacsha1onetimepassword_and_sha256_hashing) - OneTimePassword and SHA256 hashing.
+- [OneTimePassword](https://github.com/torial/fuse-community) - Sha1, HmacSha1, and OneTimePassword hashing.
 - [SQLite](https://github.com/bolav/fuse-sqlite) - SQLite library for Fuse tools.
 
 ## Open Source
