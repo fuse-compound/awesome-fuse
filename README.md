@@ -1,4 +1,4 @@
-# Awesome Fuse
+# Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![fuse](https://cloud.githubusercontent.com/assets/499192/11148667/4e33f616-8a1e-11e5-91bc-42f780b63ec9.png)
 
