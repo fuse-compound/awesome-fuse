@@ -5,6 +5,7 @@
 A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, and examples. Contributions are welcome, please see the [contribution guidelines](CONTRIBUTING.md) first.
 
 - [Applications](#applications)
+- [Articles](#articles)
 - [Community](#community)
 - [Examples](#examples)
 - [Libraries](#libraries)
@@ -15,6 +16,10 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 ## Applications
 
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - Android and iOS game calculator.
+
+## Articles
+
+- [Making mobile apps using Fuse](http://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
 
 ## Community
 
