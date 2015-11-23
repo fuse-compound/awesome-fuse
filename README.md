@@ -19,8 +19,11 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 ## Community
 
 - [Blog](https://www.fusetools.com/blog) - The official Fuse blog.
+- [Developer Guides](https://www.fusetools.com/learn/guides) - Getting up and running with Fuse is super easy.
 - [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
-- [Learn](https://www.fusetools.com/learn/fuse) - Getting up and running with Fuse is super easy.
+- [Learn Fuse](https://www.fusetools.com/learn/fuse) - The official Fuse documentation.
+- [Learn FuseJS](https://www.fusetools.com/learn/fusejs) - FuseJS is a JavaScript framework for writing cross-platform mobile applications.
+- [Learn UNO](https://www.fusetools.com/learn/uno) - Uno is a native dialect of C#, where you have direct access to Android and iOS APIs.
 - [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
 - [Slack](http://slackcommunity.fusetools.com/) - The official Slack channel.
 - [Twitter](https://twitter.com/fusetools) - The official Fuse Twitter account.
