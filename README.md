@@ -51,6 +51,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Swipe Places](https://www.fusetools.com/developers/examples/swipeplaces) - How to implement the famous card swipe control.
 - [Tabs Using Multi-Layout](https://www.fusetools.com/developers/examples/tabsmultilayout) - Set up interesting transitions between pages with multi-layout.
 - [Todo Application](https://www.fusetools.com/developers/examples/todoapp) - Learn how to make a todo app with multiple transitions.
+- [Welcome Animation](https://www.fusetools.com/examples/welcomeanimation) - Implementing a welcoming introduction screen.
 
 You can find more examples in [Fuse official examples list](https://www.fusetools.com/examples).
 
