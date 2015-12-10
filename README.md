@@ -25,6 +25,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 - [Blog](https://www.fusetools.com/blog) - The official Fuse blog.
 - [Developer Guides](https://www.fusetools.com/learn/guides) - Getting up and running with Fuse is super easy.
+- [Features](https://www.fusetools.com/learn/features) - List of current and upcoming Fuse features.
 - [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
 - [Learn Fuse](https://www.fusetools.com/learn/fuse) - The official Fuse documentation.
 - [Learn FuseJS](https://www.fusetools.com/learn/fusejs) - FuseJS is a JavaScript framework for writing cross-platform mobile applications.
