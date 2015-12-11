@@ -41,6 +41,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Basic JSON and HTTP usage](https://www.fusetools.com/developers/examples/httpjson) - Parsing JSON fetched over HTTP and displaying the results.
 - [Basic UX Animations](https://www.fusetools.com/developers/examples/basicuxanimations) - How to create animations in response to user input with triggers and animators.
 - [Gallery](https://www.fusetools.com/examples/gallery) - A gallery where you can browse and delete pictures.
+- [Halftone Effect](https://www.fusetools.com/examples/halftone-effect) - Take pictures with a halftone effect. Tweak it with customized sliders.
 - [Layout](https://www.fusetools.com/developers/examples/layoutexample) - A more complex layout using grids and docking.
 - [Material Up-vote](https://www.fusetools.com/examples/material-upvote) - An animated up-vote button.
 - [Pages Using JavaScript](https://www.fusetools.com/developers/examples/pageslist) - Setup a list of buttons navigating to and from pages.
