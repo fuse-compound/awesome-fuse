@@ -70,8 +70,10 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 ## Open Source
 
 - [Android Back Button](https://github.com/bolav/fuse-backbutton-trigger) - Trigger for the Android back button.
+- [Camera Panel](https://github.com/bolav/fuse-camerapanel) - Camera panel for Fuse tools.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
+- [Modal View](https://github.com/bolav/fuse-modalview) - Native, and UX fallback for modal alert.
 
 ## Plugins
 
