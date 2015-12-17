@@ -15,6 +15,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 ## Applications
 
+- [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes. 
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - Android and iOS game calculator.
 
 ## Articles
