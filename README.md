@@ -49,7 +49,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Layout](https://www.fusetools.com/examples/layout) - A more complex layout using grids and docking.
 - [Material Up-vote](https://www.fusetools.com/examples/material-upvote) - An animated up-vote button.
 - [Navigation Animation](https://www.fusetools.com/examples/navigation-animation) - A curly navigation animation.
-- [Pages Using JavaScript](https://www.fusetools.com/examples/pageslist) - Setup a list of buttons navigating to and from pages.
+- [Pages Using JavaScript](https://www.fusetools.com/examples/pages-using-js) - Setup a list of buttons navigating to and from pages.
 - [Pull to Reload](https://www.fusetools.com/examples/pull-to-reload) - How to make a fun pull to reload animation.
 - [Reveal Actions](https://www.fusetools.com/examples/reveal-actions) - Implementing a cool reveal animation.
 - [Rotating Sidebar](https://www.fusetools.com/examples/rotating-sidebar) - Make a fancy rotating sidebar.
@@ -60,7 +60,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Swipe Actions](https://www.fusetools.com/examples/inbox) - An Inbox with done and postpone-actions.
 - [Swipe Places](https://www.fusetools.com/examples/swipe-places) - How to implement the famous card swipe control.
 - [Tabs Using Multi-Layout](https://www.fusetools.com/examples/tabs-multi-layout) - Set up interesting transitions between pages with multi-layout.
-- [Todo Application](https://www.fusetools.com/examples/todoapp) - Learn how to make a todo app with multiple transitions.
+- [Todo Application](https://www.fusetools.com/examples/todo-app) - Learn how to make a todo app with multiple transitions.
 - [Welcome Animation](https://www.fusetools.com/examples/welcome-animation) - Implementing a welcoming introduction screen.
 
 You can find more examples in [Fuse official examples list](https://www.fusetools.com/examples).
