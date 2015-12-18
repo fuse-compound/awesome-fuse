@@ -23,7 +23,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 ## Articles
 
-- [Making mobile apps using Fuse](http://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
+- [Making mobile apps using Fuse](https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
 
 ## Community
 
@@ -40,28 +40,28 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 ## Examples
 
-- [Animated Hamburger Icon](https://www.fusetools.com/developers/examples/animatedmenuicon) - An example of how to animate a hamburger icon into a cross.
-- [Animated Loading Buttons](https://www.fusetools.com/developers/examples/loadbutton) - Creating a loading button with different success and error animations.
-- [Basic JSON and HTTP usage](https://www.fusetools.com/developers/examples/httpjson) - Parsing JSON fetched over HTTP and displaying the results.
-- [Basic UX Animations](https://www.fusetools.com/developers/examples/basicuxanimations) - How to create animations in response to user input with triggers and animators.
+- [Animated Hamburger Icon](https://www.fusetools.com/examples/animatedmenuicon) - An example of how to animate a hamburger icon into a cross.
+- [Animated Loading Buttons](https://www.fusetools.com/examples/loadbutton) - Creating a loading button with different success and error animations.
+- [Basic JSON and HTTP usage](https://www.fusetools.com/examples/httpjson) - Parsing JSON fetched over HTTP and displaying the results.
+- [Basic UX Animations](https://www.fusetools.com/examples/basicuxanimations) - How to create animations in response to user input with triggers and animators.
 - [Gallery](https://www.fusetools.com/examples/gallery) - A gallery where you can browse and delete pictures.
 - [Halftone Effect](https://www.fusetools.com/examples/halftone-effect) - Take pictures with a halftone effect. Tweak it with customized sliders.
-- [Layout](https://www.fusetools.com/developers/examples/layoutexample) - A more complex layout using grids and docking.
+- [Layout](https://www.fusetools.com/examples/layoutexample) - A more complex layout using grids and docking.
 - [Material Up-vote](https://www.fusetools.com/examples/material-upvote) - An animated up-vote button.
 - [Navigation Animation](https://www.fusetools.com/examples/navigation-animation) - A curly navigation animation.
-- [Pages Using JavaScript](https://www.fusetools.com/developers/examples/pageslist) - Setup a list of buttons navigating to and from pages.
-- [Pull to Reload](https://www.fusetools.com/developers/examples/pulltoreload) - How to make a fun pull to reload animation.
-- [Reveal Actions](https://www.fusetools.com/developers/examples/revealactions) - Implementing a cool reveal animation.
-- [Rotating Sidebar](https://www.fusetools.com/developers/examples/rotatingsidebar) - Make a fancy rotating sidebar.
-- [Scrolling Animations](https://www.fusetools.com/developers/examples/scrollinganimation) - Creating neat animations in response to scrolling.
-- [Slides](https://www.fusetools.com/developers/examples/pagecontrol) - Creating a series of slides using PageControl.
-- [Social Media](https://www.fusetools.com/developers/examples/socmedscreen) - See how easy it is to design a social media experience.
-- [Stopwatch](https://www.fusetools.com/developers/examples/stopwatch) - A fully functioning stopwatch with dashing animations.
-- [Swipe Actions](https://www.fusetools.com/developers/examples/inbox) - An Inbox with done and postpone-actions.
-- [Swipe Places](https://www.fusetools.com/developers/examples/swipeplaces) - How to implement the famous card swipe control.
-- [Tabs Using Multi-Layout](https://www.fusetools.com/developers/examples/tabsmultilayout) - Set up interesting transitions between pages with multi-layout.
-- [Todo Application](https://www.fusetools.com/developers/examples/todoapp) - Learn how to make a todo app with multiple transitions.
-- [Welcome Animation](https://www.fusetools.com/examples/welcomeanimation) - Implementing a welcoming introduction screen.
+- [Pages Using JavaScript](https://www.fusetools.com/examples/pageslist) - Setup a list of buttons navigating to and from pages.
+- [Pull to Reload](https://www.fusetools.com/examples/pulltoreload) - How to make a fun pull to reload animation.
+- [Reveal Actions](https://www.fusetools.com/examples/revealactions) - Implementing a cool reveal animation.
+- [Rotating Sidebar](https://www.fusetools.com/examples/rotatingsidebar) - Make a fancy rotating sidebar.
+- [Scrolling Animations](https://www.fusetools.com/examples/scrollinganimation) - Creating neat animations in response to scrolling.
+- [Slides](https://www.fusetools.com/examples/pagecontrol) - Creating a series of slides using PageControl.
+- [Social Media](https://www.fusetools.com/examples/socmedscreen) - See how easy it is to design a social media experience.
+- [Stopwatch](https://www.fusetools.com/examples/stopwatch) - A fully functioning stopwatch with dashing animations.
+- [Swipe Actions](https://www.fusetools.com/examples/inbox) - An Inbox with done and postpone-actions.
+- [Swipe Places](https://www.fusetools.com/examples/swipeplaces) - How to implement the famous card swipe control.
+- [Tabs Using Multi-Layout](https://www.fusetools.com/examples/tabsmultilayout) - Set up interesting transitions between pages with multi-layout.
+- [Todo Application](https://www.fusetools.com/examples/todoapp) - Learn how to make a todo app with multiple transitions.
+- [Welcome Animation](https://www.fusetools.com/examples/welcome-animation) - Implementing a welcoming introduction screen.
 
 You can find more examples in [Fuse official examples list](https://www.fusetools.com/examples).
 
@@ -93,6 +93,6 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vincent Klaiber](https://vinkla.com) has waived all copyright and related or neighboring rights to this work.
