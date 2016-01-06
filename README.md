@@ -4,9 +4,6 @@
 
 A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, and examples. Contributions are welcome, please see the [contribution guidelines](CONTRIBUTING.md) first.
 
-[![Build Status](https://img.shields.io/travis/vinkla/awesome-fuse/master.svg?style=flat)](https://travis-ci.org/vinkla/awesome-fuse)
-[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 - [Applications](#applications)
 - [Articles](#articles)
 - [Community](#community)
@@ -76,6 +73,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 
 - [Android Back Button](https://github.com/bolav/fuse-backbutton-trigger) - Trigger for the Android back button.
 - [Camera Panel](https://github.com/bolav/fuse-camerapanel) - Camera panel for Fuse tools.
+- [Facebook Login](https://github.com/bolav/fuse-facebook-login) - Example to log in with Facebook with Fuse.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
 - [Modal View](https://github.com/bolav/fuse-modalview) - Native, and UX fallback for modal alert.
