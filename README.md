@@ -4,6 +4,9 @@
 
 A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, and examples. Contributions are welcome, please see the [contribution guidelines](CONTRIBUTING.md) first.
 
+[![Build Status](https://img.shields.io/travis/vinkla/awesome-fuse/master.svg?style=flat)](https://travis-ci.org/vinkla/awesome-fuse)
+[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 - [Applications](#applications)
 - [Articles](#articles)
 - [Community](#community)
