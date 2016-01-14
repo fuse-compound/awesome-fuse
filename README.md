@@ -18,8 +18,10 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 ## Applications
 
+- [Deem](http://deemapp.com/) - The ultimate way to see movie reviews worldwide.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
-- [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - Android and iOS game calculator.
+- [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - iOS and Android game calculator.
+- [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch for iOS and Android.
 
 ## Articles
 
