@@ -88,8 +88,9 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 ## Plugins
 
 - [Atom](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse.
-- [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
 - [Bash Completion](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
+- [Emacs](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse.
+- [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
 - [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
 ## Videos
