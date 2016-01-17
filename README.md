@@ -18,8 +18,8 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 ## Applications
 
+- [BPMTap](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649) - A BPM tapper by [Erik Terwan](https://github.com/terwanerik).
 - [Deem](http://deemapp.com/) - The ultimate way to see movie reviews worldwide.
-- [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - iOS and Android game calculator.
 - [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch for iOS and Android.
 
@@ -83,6 +83,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Android Back Button](https://github.com/bolav/fuse-backbutton-trigger) - Trigger for the Android back button.
 - [Camera Panel](https://github.com/bolav/fuse-camerapanel) - Camera panel for Fuse tools.
 - [Facebook Login](https://github.com/bolav/fuse-facebook-login) - Example to log in with Facebook with Fuse.
+- [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
 - [Modal View](https://github.com/bolav/fuse-modalview) - Native, and UX fallback for modal alert.
