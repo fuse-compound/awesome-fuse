@@ -18,10 +18,10 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 ## Applications
 
-- [BPMTap](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649) - A BPM tapper by [Erik Terwan](https://github.com/terwanerik).
-- [Deem](http://deemapp.com/) - The ultimate way to see movie reviews worldwide.
-- [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - iOS and Android game calculator.
-- [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch for iOS and Android.
+-  [BPMTap](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649) - A BPM tapper that works [(​_iOS_​)](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649).
+- [Deem](http://deemapp.com/) - The ultimate way to see movie reviews worldwide [(​_iOS_​)](https://itunes.apple.com/app/deem-movies/id1057365760) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.deem).
+- [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​_iOS_​)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.GameCalculator).
+- [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch [(​_iOS_​)](https://itunes.apple.com/bt/app/timecircle/id1068220814) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.vegardstrand.TimeCircle).
 
 ## Articles
 
