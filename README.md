@@ -1,11 +1,8 @@
-# Awesome Fuse
+# Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![fuse](https://cloud.githubusercontent.com/assets/499192/11148667/4e33f616-8a1e-11e5-91bc-42f780b63ec9.png)
 
 A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, and examples. Contributions are welcome, please see the [contribution guidelines](CONTRIBUTING.md) first.
-
-[![Build Status](https://img.shields.io/travis/vinkla/awesome-fuse/master.svg?style=flat)](https://travis-ci.org/vinkla/awesome-fuse)
-[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - [Applications](#applications)
 - [Articles](#articles)
