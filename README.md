@@ -50,6 +50,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Gallery](https://www.fusetools.com/examples/gallery) - A gallery where you can browse and delete pictures.
 - [Halftone Effect](https://www.fusetools.com/examples/halftone-effect) - Take pictures with a halftone effect. Tweak it with customized sliders.
 - [Layout](https://www.fusetools.com/examples/layout) - A more complex layout using grids and docking.
+- [Login Transition](https://www.fusetools.com/examples/login-transition) - Implementing a smooth login transition.
 - [Material Up-vote](https://www.fusetools.com/examples/material-upvote) - An animated up-vote button.
 - [Navigation Animation](https://www.fusetools.com/examples/navigation-animation) - A curly navigation animation.
 - [Pages Using JavaScript](https://www.fusetools.com/examples/pages-using-js) - Setup a list of buttons navigating to and from pages.
