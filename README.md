@@ -19,7 +19,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Deem](http://deemapp.com/) - The ultimate way to see movie reviews worldwide [(​_iOS_​)](https://itunes.apple.com/app/deem-movies/id1057365760) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.deem).
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​_iOS_​)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.GameCalculator).
 - [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch [(​_iOS_​)](https://itunes.apple.com/bt/app/timecircle/id1068220814) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.vegardstrand.TimeCircle).
-- [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​_iOS_​)](https://itunes.apple.com/us/app/timestealer/id1073144825).
+- [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​_iOS_​)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Timestealer).
 
 ## Articles
 
@@ -85,6 +85,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
+- [NPM modules](https://github.com/bolav/fuse-npm) - Use NPM modules with Fuse.
 - [Modal View](https://github.com/bolav/fuse-modalview) - Native, and UX fallback for modal alert.
 
 ## Plugins
