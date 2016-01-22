@@ -81,7 +81,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 
 - [Android Back Button](https://github.com/bolav/fuse-backbutton-trigger) - Trigger for the Android back button.
 - [Camera Panel](https://github.com/bolav/fuse-camerapanel) - Camera panel for Fuse tools.
-- [500px Gallery](https://github.com/jveres/D500px) - Nifty gallery app using 500px API.
+- [500px Gallery Demo](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
 - [Facebook Login](https://github.com/bolav/fuse-facebook-login) - Example to log in with Facebook with Fuse.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
