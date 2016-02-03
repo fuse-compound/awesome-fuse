@@ -25,6 +25,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 ## Articles
 
 - [A sane way of mixing languages in Fuse](https://medium.com/@fusetools/a-sane-way-of-mixing-languages-in-fuse-660b351c2f96) - Written by Chris of the Fuse team.
+- [How to add infinite scrolling to fuse tools apps](http://creativitykills.co/how-to-add-infinite-scrolling-to-fuse-app/) - Written by Neo Ighodaro.
 - [Making mobile apps using Fuse](https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
 
 ## Community
