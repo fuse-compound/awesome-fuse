@@ -4,6 +4,8 @@
 
 A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, and examples. Contributions are welcome, please see the [contribution guidelines](CONTRIBUTING.md) first.
 
+##### Table of Contents
+
 - [Applications](#applications)
 - [Articles](#articles)
 - [Community](#community)
