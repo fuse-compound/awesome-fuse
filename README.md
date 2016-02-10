@@ -96,6 +96,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
 - [Modal View](https://github.com/bolav/fuse-modalview) - Native, and UX fallback for modal alert.
 - [NPM modules](https://github.com/bolav/fuse-npm) - Use NPM modules with Fuse.
+- [Syncano](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
 
 ## Plugins
 
