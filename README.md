@@ -93,7 +93,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
-- [Fuse+Gulp+Rollup+Babel](https://github.com/sebbert/fuse-gulp-rollup-babel) - An alternative example of module bundling and ES6->ES5 transpiling.
+- [Gulp Rollup Babel](https://github.com/sebbert/fuse-gulp-rollup-babel) - An alternative example of module bundling and ES6 -> ES5 transpiling.
 - [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
 - [Modal View](https://github.com/bolav/fuse-modalview) - Native, and UX fallback for modal alert.
 - [NPM modules](https://github.com/bolav/fuse-npm) - Use NPM modules with Fuse.
