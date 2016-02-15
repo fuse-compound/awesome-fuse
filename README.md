@@ -21,10 +21,10 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Countinental](https://itunes.apple.com/us/app/countinental/id1065815345) - An app for counting things [(​_iOS_​)](https://itunes.apple.com/us/app/countinental/id1065815345) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Countinental).
 - [Deem](http://deemapp.com/) - The ultimate way to see movie reviews worldwide [(​_iOS_​)](https://itunes.apple.com/app/deem-movies/id1057365760) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.deem).
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​_iOS_​)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.GameCalculator).
+- [SpinDice3D](https://itunes.apple.com/us/app/spindice3d/id1082656455) - Spin a 3D dice. Select a dice from collection of 4, 6, 8, 12 and 20 sides [(​_iOS_​)](https://itunes.apple.com/us/app/spindice3d/id1082656455) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.SpinDice).
 - [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch [(​_iOS_​)](https://itunes.apple.com/bt/app/timecircle/id1068220814) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.vegardstrand.TimeCircle).
 - [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​_iOS_​)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Timestealer).
 - [Vaka](https://itunes.apple.com/us/app/vaka/id1077345742) - Vaka is a game for focused and stable mind [(​_iOS_​)](https://itunes.apple.com/us/app/vaka/id1077345742) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Vaka).
-- [SpinDice3D](https://itunes.apple.com/us/app/spindice3d/id1082656455) - Spin a 3D dice. Select a dice from collection of 4, 6, 8, 12 and 20 sides [(​_iOS_​)](https://itunes.apple.com/us/app/spindice3d/id1082656455) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.SpinDice).
 
 ## Articles
 
