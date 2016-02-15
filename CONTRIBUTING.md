@@ -2,17 +2,18 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested packages should be tested and documented.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[package](link) - Description.`
 - Additions should be added to the bottom of the relevant category.
-- New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
+- Keep descriptions short and simple, but descriptive.
+- Make an individual pull request for each suggestion.
+- Make sure the link is sorted alphabetically.
 - Make sure your text editor is set to remove trailing whitespace.
+- New categories, or improvements to the existing categorization are welcome.
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Start the description with a capital and end the sentence (including links) with a full stop/period.
+- Suggested packages should be tested and documented.
 - The pull request should have a useful title and include a link to the package and why it should be included.
+- Use the following format: `[package](link) - Description.`
 
 Thank you for your suggestions!
 
