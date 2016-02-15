@@ -2,7 +2,6 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Additions should be added to the bottom of the relevant category.
 - Check your spelling and grammar.
 - Keep descriptions short and simple, but descriptive.
 - Make an individual pull request for each suggestion.
