@@ -2,10 +2,10 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
+- Additions should be added alphabetically to the relevant category.
 - Check your spelling and grammar.
 - Keep descriptions short and simple, but descriptive.
 - Make an individual pull request for each suggestion.
-- Make sure the link is sorted alphabetically.
 - Make sure your text editor is set to remove trailing whitespace.
 - New categories, or improvements to the existing categorization are welcome.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
