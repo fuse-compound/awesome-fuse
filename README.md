@@ -74,6 +74,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Stopwatch](https://www.fusetools.com/examples/stopwatch) - A fully functioning stopwatch with dashing animations.
 - [Swipe Actions](https://www.fusetools.com/examples/inbox) - An Inbox with done and postpone-actions.
 - [Swipe Places](https://www.fusetools.com/examples/swipe-places) - How to implement the famous card swipe control.
+- [Swipe to Reveal Details](https://www.fusetools.com/examples/swipe-gesture-reveal) - Swipe sideways to browse cards, swipe upwards for details.
 - [Tabs Using Multi-Layout](https://www.fusetools.com/examples/tabs-multi-layout) - Set up interesting transitions between pages with multi-layout.
 - [Tabs](https://www.fusetools.com/examples/cards-menu) - A new take on navigation between tabs.
 - [Todo Application](https://www.fusetools.com/examples/todo-app) - Learn how to make a todo app with multiple transitions.
