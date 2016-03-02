@@ -96,6 +96,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Android Back Button](https://github.com/bolav/fuse-backbutton-trigger) - Trigger for the Android back button.
 - [Camera Panel](https://github.com/bolav/fuse-camerapanel) - Camera panel for Fuse tools.
 - [Facebook Login](https://github.com/bolav/fuse-facebook-login) - Example to log in with Facebook with Fuse.
+- [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
