@@ -68,6 +68,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Reveal Actions](https://www.fusetools.com/examples/reveal-actions) - Implementing a cool reveal animation.
 - [Rotating Sidebar](https://www.fusetools.com/examples/rotating-sidebar) - Make a fancy rotating sidebar.
 - [Scrolling Animations](https://www.fusetools.com/examples/scrolling-animation) - Creating neat animations in response to scrolling.
+- [Signup Flow](https://www.fusetools.com/examples/signup-concept) - Animating between the states of a sign-up flow.
 - [Slides](https://www.fusetools.com/examples/page-control) - Creating a series of slides using PageControl.
 - [Social Media](https://www.fusetools.com/examples/social-media-screen) - See how easy it is to design a social media experience.
 - [Stopwatch](https://www.fusetools.com/examples/stopwatch) - A fully functioning stopwatch with dashing animations.
