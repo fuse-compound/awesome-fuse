@@ -101,6 +101,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
+- [Fuse Tags with Firebase](https://github.com/offwings/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Gulp Rollup Babel](https://github.com/sebbert/fuse-gulp-rollup-babel) - An alternative example of module bundling and ES6 -> ES5 transpiling.
 - [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
