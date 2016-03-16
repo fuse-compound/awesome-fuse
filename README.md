@@ -18,6 +18,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 ## Applications
 
 - [BPMTap](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649) - A BPM tapper that works [(​_iOS_​)](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649).
+- [Conrad Wise](http://www.conradwise.com) - The all-knowing Conrad Wise [(​_iOS_​)](https://itunes.apple.com/us/app/conrad-wise/id1090322679) [(​_Android_​)]https://play.google.com/store/apps/details?id=com.ConradWise).
 - [Countinental](https://itunes.apple.com/us/app/countinental/id1065815345) - An app for counting things [(​_iOS_​)](https://itunes.apple.com/us/app/countinental/id1065815345) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Countinental).
 - [Deem](http://deemapp.com/) - The ultimate way to see movie reviews worldwide [(​_iOS_​)](https://itunes.apple.com/app/deem-movies/id1057365760) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.deem).
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​_iOS_​)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.GameCalculator).
