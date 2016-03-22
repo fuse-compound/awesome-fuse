@@ -53,6 +53,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 ## Examples
 
 - [Advanced Page Transition](https://www.fusetools.com/examples/advanced-transition) - A restaurant booking app with an advanced page transition.
+- [Angled Navigation](https://www.fusetools.com/examples/angled-navigation) - Advanced use of Entering-/ExitingAnimation.
 - [Animated Hamburger Icon](https://www.fusetools.com/examples/animated-menu-icon) - An example of how to animate a hamburger icon into a cross.
 - [Animated Loading Buttons](https://www.fusetools.com/examples/loading-button) - Creating a loading button with different success and error animations.
 - [Basic JSON and HTTP usage](https://www.fusetools.com/examples/http-json) - Parsing JSON fetched over HTTP and displaying the results.
