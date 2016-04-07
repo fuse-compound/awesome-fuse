@@ -67,6 +67,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Login Transition](https://www.fusetools.com/examples/login-transition) - Implementing a smooth login transition.
 - [Material Up-vote](https://www.fusetools.com/examples/material-upvote) - An animated up-vote button.
 - [Navigation Animation](https://www.fusetools.com/examples/navigation-animation) - A curly navigation animation.
+- [Paged Onboarding](https://www.fusetools.com/examples/onboarding-with-pagecontrol) - How to make use of the PageControl to make a neat on-boarding experience.
 - [Pages Using JavaScript](https://www.fusetools.com/examples/pages-using-js) - Setup a list of buttons navigating to and from pages.
 - [Pull to Reload](https://www.fusetools.com/examples/pull-to-reload) - How to make a fun pull to reload animation.
 - [Reveal Actions](https://www.fusetools.com/examples/reveal-actions) - Implementing a cool reveal animation.
@@ -81,6 +82,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Swipe to Reveal Details](https://www.fusetools.com/examples/swipe-gesture-reveal) - Swipe sideways to browse cards, swipe upwards for details.
 - [Tabs Using Multi-Layout](https://www.fusetools.com/examples/tabs-multi-layout) - Set up interesting transitions between pages with multi-layout.
 - [Tabs](https://www.fusetools.com/examples/cards-menu) - A new take on navigation between tabs.
+- [Ticket Scroll](https://www.fusetools.com/examples/ticket-scroll) - Showing some of what you can do with ScrollingAnimation.
 - [Todo Application](https://www.fusetools.com/examples/todo-app) - Learn how to make a todo app with multiple transitions.
 - [Weather App](https://www.fusetools.com/examples/weather-app) - A weather app concept which uses clipping for a neat transition effect.
 - [Welcome Animation](https://www.fusetools.com/examples/welcome-animation) - Implementing a welcoming introduction screen.
