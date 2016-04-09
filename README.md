@@ -17,6 +17,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 ## Applications
 
+- [Beer Week](http://gbgbeerweek.se/) - The official app for Gothenburg beer festival [(​_iOS_​)](https://itunes.apple.com/se/app/beer-week/id1094707718) [(_Android_)](https://play.google.com/store/apps/details?id=com.gbgbeerweek).
 - [BPMTap](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649) - A BPM tapper that works [(​_iOS_​)](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649).
 - [Conrad Wise](http://www.conradwise.com) - The all-knowing Conrad Wise [(​_iOS_​)](https://itunes.apple.com/us/app/conrad-wise/id1090322679) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.ConradWise).
 - [Countinental](https://itunes.apple.com/us/app/countinental/id1065815345) - An app for counting things [(​_iOS_​)](https://itunes.apple.com/us/app/countinental/id1065815345) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Countinental).
