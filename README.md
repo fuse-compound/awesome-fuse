@@ -10,8 +10,8 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Articles](#articles)
 - [Community](#community)
 - [Examples](#examples)
-- [Libraries](#libraries)
 - [Open Source](#open-source)
+- [Packages](#packages)
 - [Plugins](#plugins)
 - [Videos](#videos)
 
@@ -90,31 +90,36 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 You can find more examples in [Fuse official examples list](https://www.fusetools.com/examples).
 
-## Libraries
-
-- [FileOps](https://www.fusetools.com/community/forums/show_and_tell/fileops_javascript_module) - FileOps JavaScript module.
-- [fusepm](https://github.com/bolav/fusepm) - A Fusetools package manager.
-- [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
-- [OneTimePassword](https://github.com/torial/fuse-community) - Sha1, HmacSha1, and OneTimePassword hashing.
-- [SQLite](https://github.com/bolav/fuse-sqlite) - SQLite library for Fuse tools.
-
 ## Open Source
 
 - [500px Gallery Demo](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
-- [Android Back Button](https://github.com/bolav/fuse-backbutton-trigger) - Trigger for the Android back button.
-- [Camera Panel](https://github.com/bolav/fuse-camerapanel) - Camera panel for Fuse tools.
 - [CSGOTimer](https://github.com/sanderdan/CSGOTimer) - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
-- [Facebook Login](https://github.com/bolav/fuse-facebook-login) - Example to log in with Facebook with Fuse.
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
+- [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager.
 - [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
-- [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Fuse Tags with Firebase](https://github.com/offwings/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
+- [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Gulp Rollup Babel](https://github.com/sebbert/fuse-gulp-rollup-babel) - An alternative example of module bundling and ES6 -> ES5 transpiling.
 - [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
-- [Modal View](https://github.com/bolav/fuse-modalview) - Native, and UX fallback for modal alert.
-- [NPM modules](https://github.com/bolav/fuse-npm) - Use NPM modules with Fuse.
+- [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
 - [Syncano](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
+
+## Packages
+
+- [Back Button](https://github.com/bolav/fuse-backbutton-trigger) - A back button trigger package for the Android.
+- [Caching Image Source](https://github.com/bolav/fuse-cachingimagesource) - A caching image source package.
+- [Camera Panel](https://github.com/bolav/fuse-camerapanel) - A camera panel package.
+- [CocoaPods](https://github.com/bolav/fuse-cocoapods) - A CocoaPods package.
+- [Date Picker](https://github.com/bolav/fuse-datepicker) - A date picker component package.
+- [Facebook Login](https://github.com/bolav/fuse-facebook-login) - A Facebook login package.
+- [Gallery](https://github.com/bolav/fuse-gallery) - A gallery package.
+- [Modal](https://github.com/bolav/fuse-modalview) - A modal alert component package.
+- [One-time Password](https://github.com/torial/fuse-community) - A Sha1, HmacSha1, and OneTimePassword package.
+- [SQLite](https://github.com/bolav/fuse-sqlite) - ASQLite component package.
+- [TestFairy](https://github.com/bolav/fuse-testfairy) - A TestFairy package.
+- [TouchID](https://github.com/bolav/fuse-touchid) - A TouchID component package.
+- [YouTube](https://github.com/bolav/fuse-youtube) - A YouTube component package.
 
 ## Plugins
 
