@@ -107,18 +107,19 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 
 ## Packages
 
-- [Back Button](https://github.com/bolav/fuse-backbutton-trigger) - A back button trigger package for the Android.
 - [Caching Image Source](https://github.com/bolav/fuse-cachingimagesource) - A caching image source package.
 - [Camera Panel](https://github.com/bolav/fuse-camerapanel) - A camera panel package.
+- [Contacts](https://github.com/bolav/fuse-contacts) - A package to use phones contacts on iOS and Android.
 - [CocoaPods](https://github.com/bolav/fuse-cocoapods) - A CocoaPods package.
-- [Date Picker](https://github.com/bolav/fuse-datepicker) - A date picker component package.
+- [Date Picker](https://github.com/bolav/fuse-datepicker) - A date picker component package for iOS.
 - [Facebook Login](https://github.com/bolav/fuse-facebook-login) - A Facebook login package.
-- [Gallery](https://github.com/bolav/fuse-gallery) - A gallery package.
+- [Gallery](https://github.com/bolav/fuse-gallery) - Package to get images from the gallery on Android and iOS.
+- [HomeScreen](https://github.com/bolav/fuse-homescreen) - An homescreen action package for the Android.
 - [Modal](https://github.com/bolav/fuse-modalview) - A modal alert component package.
 - [One-time Password](https://github.com/torial/fuse-community) - A Sha1, HmacSha1, and OneTimePassword package.
-- [SQLite](https://github.com/bolav/fuse-sqlite) - ASQLite component package.
-- [TestFairy](https://github.com/bolav/fuse-testfairy) - A TestFairy package.
-- [TouchID](https://github.com/bolav/fuse-touchid) - A TouchID component package.
+- [SQLite](https://github.com/bolav/fuse-sqlite) - A SQLite component package for preview, Android and iOS.
+- [TestFairy](https://github.com/bolav/fuse-testfairy) - A TestFairy package for iOS.
+- [TouchID](https://github.com/bolav/fuse-touchid) - A package to use TouchID on iOS.
 - [YouTube](https://github.com/bolav/fuse-youtube) - A YouTube component package.
 
 ## Plugins
