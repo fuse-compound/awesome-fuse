@@ -110,14 +110,15 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 
 - [Caching Image Source](https://github.com/bolav/fuse-cachingimagesource) - A caching image source package.
 - [Camera Panel](https://github.com/bolav/fuse-camerapanel) - A camera panel package.
-- [Contacts](https://github.com/bolav/fuse-contacts) - A package to use phones contacts on iOS and Android.
 - [CocoaPods](https://github.com/bolav/fuse-cocoapods) - A CocoaPods package.
+- [Contacts](https://github.com/bolav/fuse-contacts) - A package to use phones contacts on iOS and Android.
 - [Date Picker](https://github.com/bolav/fuse-datepicker) - A date picker component package for iOS.
 - [Facebook Login](https://github.com/bolav/fuse-facebook-login) - A Facebook login package.
 - [Gallery](https://github.com/bolav/fuse-gallery) - Package to get images from the gallery on Android and iOS.
 - [HomeScreen](https://github.com/bolav/fuse-homescreen) - An homescreen action package for the Android.
 - [Modal](https://github.com/bolav/fuse-modalview) - A modal alert component package.
 - [One-time Password](https://github.com/torial/fuse-community) - A Sha1, HmacSha1, and OneTimePassword package.
+- [Qreader](https://github.com/zean00/fuse-qreader) - A QR code reader package.
 - [SQLite](https://github.com/bolav/fuse-sqlite) - A SQLite component package for preview, Android and iOS.
 - [TestFairy](https://github.com/bolav/fuse-testfairy) - A TestFairy package for iOS.
 - [TouchID](https://github.com/bolav/fuse-touchid) - A package to use TouchID on iOS.
