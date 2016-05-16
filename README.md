@@ -29,6 +29,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch [(​_iOS_​)](https://itunes.apple.com/bt/app/timecircle/id1068220814) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.vegardstrand.TimeCircle).
 - [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​_iOS_​)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Timestealer).
 - [Vaka](https://itunes.apple.com/us/app/vaka/id1077345742) - Vaka is a game for focused and stable mind [(​_iOS_​)](https://itunes.apple.com/us/app/vaka/id1077345742) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Vaka).
+- [Wonder](http://getwonder.io/) - The playful way to become seriously creative [(​_iOS_​)](https://itunes.apple.com/se/app/wonder-creativity-training/id1090880488).
 
 ## Articles
 
