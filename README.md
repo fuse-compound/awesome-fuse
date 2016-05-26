@@ -123,6 +123,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [TestFairy](https://github.com/bolav/fuse-testfairy) - A TestFairy package for iOS.
 - [TouchID](https://github.com/bolav/fuse-touchid) - A package to use TouchID on iOS.
 - [YouTube](https://github.com/bolav/fuse-youtube) - A YouTube component package.
+- [FontAwesome](https://github.com/danmademe/fuse-fontawesome) - A FontAwesome Package for icons
 
 ## Plugins
 
