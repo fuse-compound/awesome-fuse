@@ -114,6 +114,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Contacts](https://github.com/bolav/fuse-contacts) - A package to use phones contacts on iOS and Android.
 - [Date Picker](https://github.com/bolav/fuse-datepicker) - A date picker component package for iOS.
 - [Facebook Login](https://github.com/bolav/fuse-facebook-login) - A Facebook login package.
+- [FontAwesome](https://github.com/danmademe/fuse-fontawesome) - A FontAwesome Package for icons
 - [Gallery](https://github.com/bolav/fuse-gallery) - Package to get images from the gallery on Android and iOS.
 - [HomeScreen](https://github.com/bolav/fuse-homescreen) - An homescreen action package for the Android.
 - [Modal](https://github.com/bolav/fuse-modalview) - A modal alert component package.
@@ -123,7 +124,6 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [TestFairy](https://github.com/bolav/fuse-testfairy) - A TestFairy package for iOS.
 - [TouchID](https://github.com/bolav/fuse-touchid) - A package to use TouchID on iOS.
 - [YouTube](https://github.com/bolav/fuse-youtube) - A YouTube component package.
-- [FontAwesome](https://github.com/danmademe/fuse-fontawesome) - A FontAwesome Package for icons
 
 ## Plugins
 
