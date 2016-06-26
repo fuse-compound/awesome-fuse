@@ -24,7 +24,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Deem](http://deemapp.com/) - The ultimate way to see movie reviews worldwide [(​_iOS_​)](https://itunes.apple.com/app/deem-movies/id1057365760) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.deem).
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​_iOS_​)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.GameCalculator).
 - [HowOld](https://play.google.com/store/apps/details?id=com.HowOld) - Find out how old or young you look [(Android)](https://play.google.com/store/apps/details?id=com.HowOld).
-- [Sanntidsappen](http://sanntidsappen.9u.no/) - Great-looking overview of bus routes in Trondheim [(​_iOS_​)](https://itunes.apple.com/no/app/sanntidsappen/id1106042398?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=io.tmn.sanntidsappen).
+- [Sanntidsappen](https://sanntidsappen.9u.no/) - Great-looking overview of bus routes in Trondheim [(​_iOS_​)](https://itunes.apple.com/no/app/sanntidsappen/id1106042398?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=io.tmn.sanntidsappen).
 - [SpinDice3D](https://itunes.apple.com/us/app/spindice3d/id1082656455) - Select and spin a dice from collection of 4, 6, 8, 12 and 20 sides [(​_iOS_​)](https://itunes.apple.com/us/app/spindice3d/id1082656455) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.SpinDice).
 - [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch [(​_iOS_​)](https://itunes.apple.com/bt/app/timecircle/id1068220814) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.vegardstrand.TimeCircle).
 - [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​_iOS_​)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Timestealer).
@@ -36,7 +36,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [A sane way of mixing languages in Fuse](https://medium.com/@fusetools/a-sane-way-of-mixing-languages-in-fuse-660b351c2f96) - Written by Chris of the Fuse team.
 - [How Fuse differs from React Native and NativeScript](https://medium.com/@fusetools/how-fuse-differs-from-react-native-and-nativescript-525344f02aaf#.pa1n8uh5l) - Written by Remi Pedersen, VP of Products at Fuse.
 - [Interview with Anders Lassen from Fuse](http://abduzeedo.com/interview-anders-lassen-fuse) - Written by [Abduzeedo](http://abduzeedo.com/).
-- [Light the fuse, using F# to write Fuse apps](http://7sharpnine.com/blog/Light-The-Fuse) - Written by [7sharp9](https://github.com/7sharp9/).
+- [Light the fuse, using F# to write Fuse apps](http://7sharpnine.com/blog/Light-The-Fuse/) - Written by [7sharp9](https://github.com/7sharp9/).
 - [Making mobile apps using Fuse](https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
 - [Medium](https://medium.com/@fusetools) - Articles on Medium by the core team.
 
@@ -99,7 +99,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager.
 - [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
-- [Fuse Tags with Firebase](https://github.com/offwings/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
+- [Fuse Tags with Firebase](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Gulp Rollup Babel](https://github.com/sebbert/fuse-gulp-rollup-babel) - An alternative example of module bundling and ES6 -> ES5 transpiling.
@@ -141,6 +141,6 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vincent Klaiber](https://vinkla.com) has waived all copyright and related or neighboring rights to this work.
