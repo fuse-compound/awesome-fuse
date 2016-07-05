@@ -66,12 +66,15 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Basic UX Animations](https://www.fusetools.com/examples/basic-ux-animations) - How to create animations in response to user input with triggers and animators.
 - [Circle Menu](https://www.fusetools.com/examples/circle-menu) - An animated circular menu button.
 - [Custom Switch](https://www.fusetools.com/examples/custom-switch) - Style your controls using inline styles to make them unique.
+- [Day-Night Switch](https://www.fusetools.com/examples/day-night-switch) - Implementing a custom day-night switch.
+- [Dynamic Tab Bar](https://www.fusetools.com/examples/dynamic-tab-bar) - Making a cool animated tab bar.
 - [Gallery](https://www.fusetools.com/examples/gallery) - A gallery where you can browse and delete pictures.
 - [Halftone Effect](https://www.fusetools.com/examples/halftone-effect) - Take pictures with a halftone effect. Tweak it with customized sliders.
 - [Layout](https://www.fusetools.com/examples/layout) - A more complex layout using grids and docking.
 - [Login Transition](https://www.fusetools.com/examples/login-transition) - Implementing a smooth login transition.
 - [Material Up-vote](https://www.fusetools.com/examples/material-upvote) - An animated up-vote button.
 - [Navigation Animation](https://www.fusetools.com/examples/navigation-animation) - A curly navigation animation.
+- [Overlay Menu](https://www.fusetools.com/examples/overlay-menu) - Creating an animated overlay menu.
 - [Paged Onboarding](https://www.fusetools.com/examples/onboarding-with-pagecontrol) - How to make use of the PageControl to make a neat on-boarding experience.
 - [Pages Using JavaScript](https://www.fusetools.com/examples/pages-using-js) - Setup a list of buttons navigating to and from pages.
 - [Pull to Reload](https://www.fusetools.com/examples/pull-to-reload) - How to make a fun pull to reload animation.
