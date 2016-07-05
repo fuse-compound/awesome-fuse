@@ -29,12 +29,13 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch [(​_iOS_​)](https://itunes.apple.com/bt/app/timecircle/id1068220814) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.vegardstrand.TimeCircle).
 - [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​_iOS_​)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Timestealer).
 - [Vaka](https://itunes.apple.com/us/app/vaka/id1077345742) - Vaka is a game for focused and stable mind [(​_iOS_​)](https://itunes.apple.com/us/app/vaka/id1077345742) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Vaka).
-- [Wonder](http://getwonder.io/) - The playful way to become seriously creative [(​_iOS_​)](https://itunes.apple.com/se/app/wonder-creativity-training/id1090880488).
+- [Wonder](http://getwonder.io/) - Vaka is a game for focused and stable mind [(​_iOS_​)](https://itunes.apple.com/us/app/vaka/id1077345742).
 
 ## Articles
 
 - [A sane way of mixing languages in Fuse](https://medium.com/@fusetools/a-sane-way-of-mixing-languages-in-fuse-660b351c2f96) - Written by Chris of the Fuse team.
 - [How Fuse differs from React Native and NativeScript](https://medium.com/@fusetools/how-fuse-differs-from-react-native-and-nativescript-525344f02aaf#.pa1n8uh5l) - Written by Remi Pedersen, VP of Products at Fuse.
+- [How to add infinite scrolling to fuse tools apps](https://creativitykills.co/how-to-add-infinite-scrolling-to-fuse-app/) - Written by [Neo Ighodaro](https://github.com/neoighodaro).
 - [Interview with Anders Lassen from Fuse](http://abduzeedo.com/interview-anders-lassen-fuse) - Written by [Abduzeedo](http://abduzeedo.com/).
 - [Making mobile apps using Fuse](https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
 - [Medium](https://medium.com/@fusetools) - Articles on Medium by the core team.
@@ -108,20 +109,23 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 
 ## Packages
 
+- [Bar Code Scanner](https://github.com/bolav/fuse-barcodescanner) - A bar code scanner package.
 - [Caching Image Source](https://github.com/bolav/fuse-cachingimagesource) - A caching image source package.
 - [Camera Panel](https://github.com/bolav/fuse-camerapanel) - A camera panel package.
 - [CocoaPods](https://github.com/bolav/fuse-cocoapods) - A CocoaPods package.
 - [Contacts](https://github.com/bolav/fuse-contacts) - A package to use phones contacts on iOS and Android.
 - [Date Picker](https://github.com/bolav/fuse-datepicker) - A date picker component package for iOS.
+- [Dropbox](https://github.com/bolav/fuse-dropbox) - A Dropbox SDK package.
 - [Facebook Login](https://github.com/bolav/fuse-facebook-login) - A Facebook login package.
 - [Gallery](https://github.com/bolav/fuse-gallery) - Package to get images from the gallery on Android and iOS.
-- [HomeScreen](https://github.com/bolav/fuse-homescreen) - An homescreen action package for the Android.
+- [Home Screen](https://github.com/bolav/fuse-homescreen) - An homescreen action package for the Android.
 - [Modal](https://github.com/bolav/fuse-modalview) - A modal alert component package.
 - [One-time Password](https://github.com/torial/fuse-community) - A Sha1, HmacSha1, and OneTimePassword package.
 - [Qreader](https://github.com/zean00/fuse-qreader) - A QR code reader package.
 - [SQLite](https://github.com/bolav/fuse-sqlite) - A SQLite component package for preview, Android and iOS.
 - [TestFairy](https://github.com/bolav/fuse-testfairy) - A TestFairy package for iOS.
 - [TouchID](https://github.com/bolav/fuse-touchid) - A package to use TouchID on iOS.
+- [WhileVisibleInScrollView](https://github.com/bolav/fuse-whilevisibleinscrollview) - A WhileVisibleInScrollView UX trigger package.
 - [YouTube](https://github.com/bolav/fuse-youtube) - A YouTube component package.
 
 ## Plugins
