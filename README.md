@@ -35,7 +35,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 
 - [A sane way of mixing languages in Fuse](https://medium.com/@fusetools/a-sane-way-of-mixing-languages-in-fuse-660b351c2f96) - Written by Chris of the Fuse team.
 - [How Fuse differs from React Native and NativeScript](https://medium.com/@fusetools/how-fuse-differs-from-react-native-and-nativescript-525344f02aaf#.pa1n8uh5l) - Written by Remi Pedersen, VP of Products at Fuse.
-- [How to add infinite scrolling to fuse tools apps](https://creativitykills.co/how-to-add-infinite-scrolling-to-fuse-app/) - Written by [Neo Ighodaro](https://github.com/neoighodaro).
+- [How to add infinite scrolling to fuse tools apps](http://creativitykills.co/how-to-add-infinite-scrolling-to-fuse-app/) - Written by [Neo Ighodaro](https://github.com/neoighodaro).
 - [Interview with Anders Lassen from Fuse](http://abduzeedo.com/interview-anders-lassen-fuse) - Written by [Abduzeedo](http://abduzeedo.com/).
 - [Light the fuse, using F# to write Fuse apps](http://7sharpnine.com/blog/Light-The-Fuse/) - Written by [7sharp9](https://github.com/7sharp9/).
 - [Making mobile apps using Fuse](https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
@@ -44,14 +44,14 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 ## Community
 
 - [Blog](https://www.fusetools.com/blog) - The official Fuse blog.
-- [Developer Guides](https://www.fusetools.com/learn/guides) - Getting up and running with Fuse is super easy.
+- [Developer Guides](https://www.fusetools.com/docs) - Getting up and running with Fuse is super easy.
 - [Features](https://www.fusetools.com/learn/features) - List of current and upcoming Fuse features.
 - [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
 - [Learn Fuse](https://www.fusetools.com/learn/fuse) - The official Fuse documentation.
 - [Learn FuseJS](https://www.fusetools.com/learn/fusejs) - FuseJS is a JavaScript framework for writing cross-platform mobile applications.
 - [Learn UNO](https://www.fusetools.com/learn/uno) - Uno is a native dialect of C#, where you have direct access to Android and iOS APIs.
 - [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
-- [Plugin API](https://www.fusetools.com/learn/guides/fuse-protocol) - The official Fuse plugin API.
+- [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
 - [Slack](http://slackcommunity.fusetools.com/) - The official Slack channel.
 - [Twitter](https://twitter.com/fusetools) - The official Fuse Twitter account.
 
