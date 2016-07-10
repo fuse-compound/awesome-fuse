@@ -41,6 +41,14 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Making mobile apps using Fuse](https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
 - [Medium](https://medium.com/@fusetools) - Articles on Medium by the core team.
 
+## Generators
+
+- [slush-xfuse](https://www.npmjs.com/package/slush-xfuse)
+
+## Package management
+
+- [fusepm](https://github.com/bolav/fusepm)
+
 ## Community
 
 - [Blog](https://www.fusetools.com/blog) - The official Fuse blog.
