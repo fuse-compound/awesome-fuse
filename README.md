@@ -41,14 +41,6 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Making mobile apps using Fuse](https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
 - [Medium](https://medium.com/@fusetools) - Articles on Medium by the core team.
 
-## Generators
-
-- [slush-xfuse](https://www.npmjs.com/package/slush-xfuse)
-
-## Package management
-
-- [fusepm](https://github.com/bolav/fusepm)
-
 ## Community
 
 - [Blog](https://www.fusetools.com/blog) - The official Fuse blog.
@@ -118,6 +110,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Gulp Rollup Babel](https://github.com/sebbert/fuse-gulp-rollup-babel) - An alternative example of module bundling and ES6 -> ES5 transpiling.
 - [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
 - [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
+- [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
 - [Syncano](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
 
 ## Packages
