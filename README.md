@@ -52,7 +52,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Learn UNO](https://www.fusetools.com/learn/uno) - Uno is a native dialect of C#, where you have direct access to Android and iOS APIs.
 - [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
 - [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
-- [Slack](http://slackcommunity.fusetools.com/) - The official Slack channel.
+- [Slack](https://slackcommunity.fusetools.com/) - The official Slack channel.
 - [Twitter](https://twitter.com/fusetools) - The official Fuse Twitter account.
 
 ## Examples
