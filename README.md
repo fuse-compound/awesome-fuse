@@ -111,6 +111,7 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Handbook](https://github.com/fusetools/handbook-docs) - The official Fuse documentation repository.
 - [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
 - [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
+- [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 - [Syncano](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
 - [Hikr](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
 
