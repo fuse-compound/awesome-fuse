@@ -40,6 +40,7 @@ A curated list of awesome [Fuse](https://www.fusetools.com/) libraries, tools, a
 - [Light the fuse, using F# to write Fuse apps](http://7sharpnine.com/blog/Light-The-Fuse/) - Written by [7sharp9](https://github.com/7sharp9/).
 - [Making mobile apps using Fuse](https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
 - [Medium](https://medium.com/@fusetools) - Articles on Medium by the core team.
+- [SwiftFuse](https://github.com/YugoCode/SwiftFuse/blob/master/README.md) - Tutorial on how to use Swift with Fuse.
 
 ## Community
 
@@ -145,10 +146,6 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Emacs](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse.
 - [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
 - [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
-
-## Tutorials
-
-- [SwiftFuse](https://github.com/YugoCode/SwiftFuse/blob/master/README.md) - Tutorial on how to use Swift with Fuse
 
 ## Videos
 
