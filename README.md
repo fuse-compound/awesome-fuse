@@ -146,6 +146,10 @@ You can find more examples in [Fuse official examples list](https://www.fusetool
 - [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
 - [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
+## Tutorials
+
+- [SwiftFuse](https://github.com/YugoCode/SwiftFuse/blob/master/README.md) - Tutorial on how to use Swift with Fuse
+
 ## Videos
 
 - [YouTube](https://www.youtube.com/channel/UCPizp_2dBkLlXRFnbieG3Qw/feed) - Official Fuse YouTube channel.
