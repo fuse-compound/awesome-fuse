@@ -49,7 +49,6 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Blog](https://www.fusetools.com/blog) - The official Fuse blog.
 - [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
 - [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
-- [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
 - [Slack](https://slackcommunity.fusetools.com/) - The official Slack channel.
 - [Twitter](https://twitter.com/fusetools) - The official Fuse Twitter account.
 - [YouTube](https://www.youtube.com/channel/UCPizp_2dBkLlXRFnbieG3Qw/feed) - Official Fuse YouTube channel.
@@ -60,6 +59,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Examples](https://www.fusetools.com/examples) - A list of examples create by Fuse.
 - [Features Status](https://www.fusetools.com/docs/features) - List of current and upcoming Fuse features.
 - [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
+- [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
 
 ## Open Source
 
