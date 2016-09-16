@@ -37,6 +37,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 - [A sane way of mixing languages in Fuse](https://medium.com/@fusetools/a-sane-way-of-mixing-languages-in-fuse-660b351c2f96) - Written by Chris Bagley.
 - [Do we need better prototyping or simpler coding?](https://blog.prototypr.io/do-we-need-better-prototyping-or-simpler-coding-269109426313) - Written by Daniel Hollick.
+- [Fuse Foreign Speech](https://medium.com/@fusetools/fuse-foreign-speech-c4d888b505ec) - Written by Remi Pedersen.
 - [How Fuse differs from React Native and NativeScript](https://medium.com/@fusetools/how-fuse-differs-from-react-native-and-nativescript-525344f02aaf#.pa1n8uh5l) - Written by Remi Pedersen.
 - [How to add infinite scrolling to fuse tools apps](http://creativitykills.co/how-to-add-infinite-scrolling-to-fuse-app/) - Written by [Neo Ighodaro](https://github.com/neoighodaro).
 - [Interview with Anders Lassen from Fuse](http://abduzeedo.com/interview-anders-lassen-fuse) - Written by [Abduzeedo](http://abduzeedo.com/).
