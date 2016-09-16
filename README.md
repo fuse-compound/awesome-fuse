@@ -1,4 +1,4 @@
-# Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/vinkla/awesome-fuse/master.svg?style=flat)](https://travis-ci.org/vinkla/awesome-fuse)
 
 [<img src="https://cloud.githubusercontent.com/assets/499192/18584699/c4a6b3ce-7c12-11e6-9171-4bc44c78d136.jpg" align="right" alt="Fuse" width="240">](https://www.fusetools.com/)
 
