@@ -31,7 +31,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch [(​_iOS_​)](https://itunes.apple.com/bt/app/timecircle/id1068220814) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.vegardstrand.TimeCircle).
 - [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​_iOS_​)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Timestealer).
 - [Vaka](https://itunes.apple.com/us/app/vaka/id1077345742) - Vaka is a game for focused and stable mind [(​_iOS_​)](https://itunes.apple.com/us/app/vaka/id1077345742) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Vaka).
-- [Wonder](http://getwonder.io/) - Vaka is a game for focused and stable mind [(​_iOS_​)](https://itunes.apple.com/us/app/vaka/id1077345742).
+- [Wonder](https://getwonder.io/) - Vaka is a game for focused and stable mind [(​_iOS_​)](https://itunes.apple.com/us/app/vaka/id1077345742).
 
 ## Articles
 
@@ -47,7 +47,6 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 ## Community
 
 - [Blog](https://www.fusetools.com/blog) - The official Fuse blog.
-- [Features](https://www.fusetools.com/learn/features) - List of current and upcoming Fuse features.
 - [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
 - [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
 - [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
@@ -59,9 +58,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 - [Developer Guides](https://www.fusetools.com/docs) - Getting up and running with Fuse is super easy.
 - [Examples](https://www.fusetools.com/examples) - A list of examples create by Fuse.
-- [Learn Fuse](https://www.fusetools.com/learn/fuse) - The official Fuse documentation.
-- [Learn FuseJS](https://www.fusetools.com/learn/fusejs) - FuseJS is a JavaScript framework for writing cross-platform mobile applications.
-- [Learn UNO](https://www.fusetools.com/learn/uno) - Uno is a native dialect of C#, where you have direct access to Android and iOS APIs.
+- [Features Status](https://www.fusetools.com/docs/features) - List of current and upcoming Fuse features.
 - [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
 
 ## Open Source
