@@ -61,7 +61,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Learn FuseJS](https://www.fusetools.com/learn/fusejs) - FuseJS is a JavaScript framework for writing cross-platform mobile applications.
 - [Learn UNO](https://www.fusetools.com/learn/uno) - Uno is a native dialect of C#, where you have direct access to Android and iOS APIs.
 - [Developer Guides](https://www.fusetools.com/docs) - Getting up and running with Fuse is super easy.
-- [Community packages](https://www.fusetools.com/docs/packages)
+- [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
 
 ## Open Source
 
