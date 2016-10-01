@@ -8,7 +8,7 @@
 
 Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
 
-##### Table of Contents
+#### Contents
 
 - [Applications](#applications)
 - [Articles](#articles)
