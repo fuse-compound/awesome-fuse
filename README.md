@@ -92,6 +92,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Emacs](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse.
 - [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
 - [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
+- [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for *.uno and *.ux files in VS Code.
 
 ## License
 
