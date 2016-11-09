@@ -73,6 +73,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Firebase](https://github.com/cbaggers/Fuse.Firebase) - Firebase bindings for Fuse.
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse PM](https://github.com/bolav/fusepm) - A Fusetools package manager.
+- [Fuse Pokedex](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
 - [Fuse Samples](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 - [Fuse Tags with Firebase](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
