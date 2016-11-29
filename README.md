@@ -6,7 +6,7 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
+Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vinkla)! 👋
 
 #### Contents
 
@@ -28,7 +28,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​_iOS_​)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.GameCalculator).
 - [Gig](http://www.letsgig.in/) - Discover local nightlife [(​_Android_​)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
 - [HatTrick](http://htgame.uk) The official app for the card-driven soccer simulation Hat-Trick [(​_iOS_​)](https://itunes.apple.com/cl/app/hattrick-companion-app/id1160945812) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.apps.hattrick).
-- [HowOld](https://play.google.com/store/apps/details?id=com.HowOld) - Find out how old or young you look [(Android)](https://play.google.com/store/apps/details?id=com.HowOld).
+- [HowOld](https://play.google.com/store/apps/details?id=com.HowOld) - Find out how old or young you look [(​_Android​_)](https://play.google.com/store/apps/details?id=com.HowOld).
 - [Opportunity](https://myopportunity.com/) - A lead generation tool built inside of a business network [(​_iOS_​)](https://itunes.apple.com/us/app/opportunity-business-opportunities/id1120189533) [(Android)](https://play.google.com/store/apps/details?id=com.opprtunity.opprtunityapp).
 - [Sanntidsappen](https://sanntidsappen.9u.no/) - Great-looking overview of bus routes in Trondheim [(​_iOS_​)](https://itunes.apple.com/no/app/sanntidsappen/id1106042398?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=io.tmn.sanntidsappen).
 - [SpinDice3D](https://itunes.apple.com/us/app/spindice3d/id1082656455) - Select and spin a dice from collection of 4, 6, 8, 12 and 20 sides [(​_iOS_​)](https://itunes.apple.com/us/app/spindice3d/id1082656455) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.SpinDice).
