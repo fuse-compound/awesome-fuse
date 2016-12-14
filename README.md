@@ -45,6 +45,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Fuse Foreign Speech](https://medium.com/@fusetools/fuse-foreign-speech-c4d888b505ec) - Written by Remi Pedersen.
 - [How Fuse differs from React Native and NativeScript](https://medium.com/@fusetools/how-fuse-differs-from-react-native-and-nativescript-525344f02aaf#.pa1n8uh5l) - Written by Remi Pedersen.
 - [How to add infinite scrolling to fuse tools apps](https://www.creativitykills.co/how-to-add-infinite-scrolling-to-fuse-app/) - Written by [Neo Ighodaro](https://github.com/neoighodaro).
+- [I made a cross-platform SoundCloud<sup>®</sup> player with Fuse](https://medium.com/@fusetools/i-made-a-cross-platform-soundcloud-player-with-fuse-9fb1e62b7db1#.5lhmtwovz) - Written by [Kristian Hasselknippe](https://github.com/kristianhasselknippe/).
 - [Interview with Anders Lassen from Fuse](http://abduzeedo.com/interview-anders-lassen-fuse) - Written by [Abduzeedo](http://abduzeedo.com/).
 - [Light the fuse, using F# to write Fuse apps](http://7sharpnine.com/2016/06/03/light-the-fuse/) - Written by [7sharp9](https://github.com/7sharp9/).
 - [Making mobile apps using Fuse](https://tmn.io/read/2015-11-22-making-mobile-apps-using-Fuse) - Written by [Tri Nguyen](https://github.com/tmn/).
