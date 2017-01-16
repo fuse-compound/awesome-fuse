@@ -37,12 +37,12 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Sanntidsappen](https://sanntidsappen.9u.no/) - Great-looking overview of bus routes in Trondheim [(​_iOS_​)](https://itunes.apple.com/no/app/sanntidsappen/id1106042398?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=io.tmn.sanntidsappen).
 - [Snapptime](https://snapptime.de/) - Enjoy the food offers in your city (in German) [(​_iOS_​)](https://itunes.apple.com/de/app/snapptime/id1162387536?mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=de.snapptime).
 - [SpinDice3D](https://itunes.apple.com/us/app/spindice3d/id1082656455) - Select and spin a dice from collection of 4, 6, 8, 12 and 20 sides [(​_iOS_​)](https://itunes.apple.com/us/app/spindice3d/id1082656455) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.SpinDice).
+- [Tasty](http://www.tastyapp.net/) - The local food curation chatbot app [(​_Android_​)](https://play.google.com/store/apps/details?id=net.tastyapp.tasty&hl=en).
 - [The monster and the cat](http://livingabook.com/portfolio/the-monster-and-the-cat/) - Interactive book [(​_iOS_​)](https://itunes.apple.com/mx/app/the-monster-and-the-cat/id726779970?l=en&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.livingabook.monsterandcat).
 - [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch [(​_iOS_​)](https://itunes.apple.com/bt/app/timecircle/id1068220814) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.vegardstrand.TimeCircle).
 - [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​_iOS_​)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Timestealer).
 - [Vaka](https://itunes.apple.com/us/app/vaka/id1077345742) - Vaka is a game for focused and stable mind [(​_iOS_​)](https://itunes.apple.com/us/app/vaka/id1077345742) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Vaka).
 - [Wonder](https://getwonder.io/) - An idea companion app that trains your creative and ideation skills [(​_iOS_​)](https://itunes.apple.com/se/app/wonder-creativity-training/id1090880488).
-- [Tasty](http://www.tastyapp.net/) - The local food curation chatbot app [(​_Android_​)](https://play.google.com/store/apps/details?id=net.tastyapp.tasty&hl=en).
 
 ## Articles
 
