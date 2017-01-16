@@ -42,6 +42,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​_iOS_​)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Timestealer).
 - [Vaka](https://itunes.apple.com/us/app/vaka/id1077345742) - Vaka is a game for focused and stable mind [(​_iOS_​)](https://itunes.apple.com/us/app/vaka/id1077345742) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Vaka).
 - [Wonder](https://getwonder.io/) - An idea companion app that trains your creative and ideation skills [(​_iOS_​)](https://itunes.apple.com/se/app/wonder-creativity-training/id1090880488).
+- [Tasty](http://www.tastyapp.net/) - The local food curation chatbot app [(​_Android_​)](https://play.google.com/store/apps/details?id=net.tastyapp.tasty&hl=en).
 
 ## Articles
 
