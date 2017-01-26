@@ -59,7 +59,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 ## Community
 
-- [Blog](https://www.fusetools.com/blog) - The official Fuse blog.
+- [Blog](https://medium.com/@fusetools/latest) - The official Fuse blog on Medium
 - [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
 - [Medium](https://medium.com/@fusetools) - Articles on Medium by the core team.
 - [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
