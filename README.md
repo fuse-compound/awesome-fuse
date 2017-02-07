@@ -109,6 +109,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
 - [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 - [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
+- [Fuse-Log](https://github.com/bstrr/vscode-fuse-log) - Get Fuse log messages into Visual Studio Code's output panel.
 
 ## License
 
