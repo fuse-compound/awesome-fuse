@@ -77,6 +77,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
 - [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
 - [Samples](https://github.com/fusetools/fuse-samples/) - Samples demonstrating the use of various Fuse and FuseJS APIs.
+- [Tour De Fuse](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse.
 
 ## Open Source
 
