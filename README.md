@@ -30,7 +30,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Deem](http://deemapp.co/) - The ultimate way to see movie reviews worldwide [(​_iOS_​)](https://itunes.apple.com/app/deem-movies/id1057365760) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.deem).
 - [FuseCloud](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(_iOS_)](https://itunes.apple.com/us/app/fusecloud/id1173516856?mt=8) [(_Android_)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en).
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​_iOS_​)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.GameCalculator).
-- [Gig](http://www.letsgig.in/) - Discover local nightlife [(​_Android_​)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
+- [Gig](https://play.google.com/store/apps/details?id=com.littleboat.gig) - Discover local nightlife [(​_Android_​)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
 - [Guias Doop](http://guiadoop.com.br/download/) - Celebrity lifestyle guide  [(​_iOS_​)](https://itunes.apple.com/br/app/guias-doop/id1235335392?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=br.com.guiadoop.fuse)
 - [HatTrick](http://htgame.uk) The official app for the card-driven soccer simulation Hat-Trick [(​_iOS_​)](https://itunes.apple.com/cl/app/hattrick-companion-app/id1160945812) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.apps.hattrick).
 - [HowOld](https://play.google.com/store/apps/details?id=com.HowOld) - Find out how old or young you look [(​_Android​_)](https://play.google.com/store/apps/details?id=com.HowOld).
@@ -95,7 +95,6 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [fuse.QrScanner](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode.
 - [Fuse Tags with Firebase](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
-- [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
 - [Hikr](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
 - [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
