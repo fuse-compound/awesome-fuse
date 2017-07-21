@@ -85,7 +85,6 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 ## Open Source
 
 - [500px Gallery Demo](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
-- [CSGOTimer](https://github.com/sanderdan/CSGOTimer) - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
 - [Firebase](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components
