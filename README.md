@@ -1,6 +1,6 @@
 # Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cloud.githubusercontent.com/assets/499192/18584699/c4a6b3ce-7c12-11e6-9171-4bc44c78d136.jpg" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
+[<img src="https://cloud.githubusercontent.com/assets/499192/24413317/5cb57f14-13db-11e7-9d53-2389641d81a8.jpg" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
 
 > A curated list of awesome [Fuse](https://www.fusetools.com/) applications, articles, and plugins.
 
@@ -25,15 +25,18 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [CityU Minerals](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals) - A mobile virtual museum [(​_Android_​)](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals).
 - [Conrad Wise](http://www.conradwise.com) - The all-knowing Conrad Wise [(​_iOS_​)](https://itunes.apple.com/us/app/conrad-wise/id1090322679) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.ConradWise).
 - [Countinental](https://itunes.apple.com/us/app/countinental/id1065815345) - An app for counting things [(​_iOS_​)](https://itunes.apple.com/us/app/countinental/id1065815345) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Countinental).
+- [Criminal Mind](https://livingabook.com) - Interactive story book [(​_iOS_​)](https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal).
 - [Dark Forest](https://livingabook.com) - Interactive book [(​_iOS_​)](https://itunes.apple.com/mx/app/dark-forest-living-a-book/id695442145) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.livingabook.darkforest).
 - [Deem](http://deemapp.co/) - The ultimate way to see movie reviews worldwide [(​_iOS_​)](https://itunes.apple.com/app/deem-movies/id1057365760) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.deem).
 - [FuseCloud](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(_iOS_)](https://itunes.apple.com/us/app/fusecloud/id1173516856?mt=8) [(_Android_)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en).
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​_iOS_​)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.GameCalculator).
 - [Gig](http://www.letsgig.in/) - Discover local nightlife [(​_Android_​)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
+- [Guias Doop](http://guiadoop.com.br/download/) - Celebrity lifestyle guide  [(​_iOS_​)](https://itunes.apple.com/br/app/guias-doop/id1235335392?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=br.com.guiadoop.fuse)
 - [HatTrick](http://htgame.uk) The official app for the card-driven soccer simulation Hat-Trick [(​_iOS_​)](https://itunes.apple.com/cl/app/hattrick-companion-app/id1160945812) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.apps.hattrick).
 - [HowOld](https://play.google.com/store/apps/details?id=com.HowOld) - Find out how old or young you look [(​_Android​_)](https://play.google.com/store/apps/details?id=com.HowOld).
 - [Klickle](https://itunes.apple.com/us/app/klickle/id873427610?mt=8) - Find stuff that’s happening now from local businesses [(​_iOS_​)](https://itunes.apple.com/us/app/klickle/id873427610?mt=8)
 - [Opportunity](https://myopportunity.com/) - A lead generation tool built inside of a business network [(​_iOS_​)](https://itunes.apple.com/us/app/opportunity-business-opportunities/id1120189533) [(Android)](https://play.google.com/store/apps/details?id=com.opprtunity.opprtunityapp).
+- [Quotis](https://play.google.com/store/apps/details?id=com.qubatetech.quotis) - Streamlined inspirational quote app that let's you browse and copy/paste great quotes [(​_Android_​)](https://play.google.com/store/apps/details?id=com.qubatetech.quotis).
 - [Sanntidsappen](https://sanntidsappen.9u.no/) - Great-looking overview of bus routes in Trondheim [(​_iOS_​)](https://itunes.apple.com/no/app/sanntidsappen/id1106042398?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=io.tmn.sanntidsappen).
 - [Snapptime](https://snapptime.de/) - Enjoy the food offers in your city (in German) [(​_iOS_​)](https://itunes.apple.com/de/app/snapptime/id1162387536?mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=de.snapptime).
 - [SpinDice3D](https://itunes.apple.com/us/app/spindice3d/id1082656455) - Select and spin a dice from collection of 4, 6, 8, 12 and 20 sides [(​_iOS_​)](https://itunes.apple.com/us/app/spindice3d/id1082656455) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.SpinDice).
@@ -78,11 +81,11 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
 - [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
 - [Samples](https://github.com/fusetools/fuse-samples/) - Samples demonstrating the use of various Fuse and FuseJS APIs.
+- [Tour De Fuse](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse.
 
 ## Open Source
 
 - [500px Gallery Demo](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
-- [CSGOTimer](https://github.com/sanderdan/CSGOTimer) - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
 - [Firebase](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
 - [FormulaFuse](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components
@@ -93,7 +96,6 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Fuse Tags with Firebase](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
-- [Gulp Rollup Babel](https://github.com/sebbert/fuse-gulp-rollup-babel) - An alternative example of module bundling and ES6 -> ES5 transpiling.
 - [Haxe](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
 - [Hikr](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
 - [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
