@@ -20,6 +20,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 ## Applications
 
 - [20,000 Leagues Under The Sea](https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369) - Interactive book [(​iOS)](https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369).
+- [Amphi Festival 2017](http://www.amphi-festival.de/) - Semi-official app for Amphi Festival 2017 [(​iOS)](https://itunes.apple.com/us/app/amphi-festival-2017/id1258744398) [(Android)](https://play.google.com/store/apps/details?id=org.knatten.AmphiFestival2017).
 - [Beer Week](http://gbgbeerweek.se/) - The official app for Gothenburg beer festival [(​iOS)](https://itunes.apple.com/se/app/beer-week/id1094707718) [(Android)](https://play.google.com/store/apps/details?id=com.gbgbeerweek).
 - [BPMTap](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649) - A BPM tapper that works [(​iOS)](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649).
 - [CityU Minerals](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals) - A mobile virtual museum [(Android)](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals).
