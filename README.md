@@ -1,6 +1,6 @@
 # Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cloud.githubusercontent.com/assets/499192/24413317/5cb57f14-13db-11e7-9d53-2389641d81a8.jpg" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
+[<img src="https://user-images.githubusercontent.com/499192/31740578-13ed7990-b452-11e7-96ca-e7fb898edff0.png" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
 
 > A curated list of awesome [Fuse](https://www.fusetools.com/) applications, articles, and plugins.
 
