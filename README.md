@@ -6,7 +6,7 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vinkla)! 👋
+Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.com/fusetools)! 👋
 
 #### Contents
 
