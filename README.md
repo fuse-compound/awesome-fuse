@@ -52,6 +52,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 - [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​iOS)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(Android)](https://play.google.com/store/apps/details?id=com.Timestealer).
 - [Vaka](https://itunes.apple.com/us/app/vaka/id1077345742) - Vaka is a game for focused and stable mind [(​iOS)](https://itunes.apple.com/us/app/vaka/id1077345742) [(Android)](https://play.google.com/store/apps/details?id=com.Vaka).
 - [Wonder](https://getwonder.io/) - An idea companion app that trains your creative and ideation skills [(​iOS)](https://itunes.apple.com/se/app/wonder-creativity-training/id1090880488).
+- [Wali](https://wali-app.com/) - With Wali you can browse any movie or tv show out there and arrange them on a list to watch them later.  [(​iOS)](https://itunes.apple.com/us/app/wali-movies-tv-shows-lists/id1257155305?mt=8&ign-mpt=uo%3D4) [(Android)](https://play.google.com/store/apps/details?id=com.goodfactory.wali).
 
 ## Articles
 
@@ -110,6 +111,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 - [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 - [Syncano](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
 - [UnityAds Sample](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse.
+- [Share Draw/Signature and Custom Panel](https://github.com/ckarmy/fuse-signature-savePanel) - Share Signature/Draw and Custom panel for Fuse.
 
 ## Plugins
 
