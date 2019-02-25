@@ -71,12 +71,13 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 ## Community
 
 - [Blog](https://medium.com/@fusetools/latest) - The official Fuse blog on Medium
-- [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
+- [Forums](https://fuseopen.com/forums/) - The official Fuse forums.
 - [Medium](https://medium.com/@fusetools) - Articles on Medium by the core team.
 - [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
 - [Slack](https://slackcommunity.fusetools.com/) - The official Slack channel.
 - [Twitter](https://twitter.com/fusetools) - The official Fuse Twitter account.
 - [YouTube](https://www.youtube.com/channel/UCPizp_2dBkLlXRFnbieG3Qw/feed) - Official Fuse YouTube channel.
+- [Fuse animations tutorials](https://www.youtube.com/playlist?list=PLVBW3QM3BcGPoB3F1INAbkCz-HtrTZ7Xl) - A youtube playlists with Fuse Animations tutorials by edA-qa mort-ora-y.
 
 ## Development
 
