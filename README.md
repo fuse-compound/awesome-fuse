@@ -1,8 +1,8 @@
 # Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://user-images.githubusercontent.com/499192/31740578-13ed7990-b452-11e7-96ca-e7fb898edff0.png" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
+[<img src="https://user-images.githubusercontent.com/499192/31740578-13ed7990-b452-11e7-96ca-e7fb898edff0.png" align="right" alt="Fuse" width="340">](https://fuseopen.com/)
 
-> A curated list of awesome [Fuse](https://www.fusetools.com/) applications, articles, and plugins.
+> A curated list of awesome [Fuse](https://fuseopen.com/) applications, articles, and plugins.
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
@@ -70,7 +70,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 ## Community
 
 - [Blog](https://medium.com/@fusetools/latest) - The official Fuse blog on Medium
-- [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
+- [Forums](https://forums.fusetools.com/) - The official Fuse forums.
 - [Medium](https://medium.com/@fusetools) - Articles on Medium by the core team.
 - [Newsletter](http://weekly.fusetools.com/) - Fuse Weekly is a weekly curated publication full of interesting news and articles.
 - [Slack](https://slackcommunity.fusetools.com/) - The official Slack channel.
@@ -79,11 +79,11 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 
 ## Development
 
-- [Developer Guides](https://www.fusetools.com/docs) - Getting up and running with Fuse is super easy.
-- [Examples](https://www.fusetools.com/examples) - A list of examples create by Fuse.
-- [Features Status](https://www.fusetools.com/docs/features) - List of current and upcoming Fuse features.
-- [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
-- [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
+- [Developer Guides](https://fuseopen.com/docs/) - Getting up and running with Fuse is super easy.
+- [Examples](https://fuseopen.com/examples/) - A list of examples create by Fuse.
+- [Features Status](https://fuseopen.com/docs/features) - List of current and upcoming Fuse features.
+- [Packages](https://fuseopen.com/docs/packages) - A curated list of third party Fuse packages created by the community.
+- [Plugin API](https://fuseopen.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
 - [Samples](https://github.com/fusetools/fuse-samples/) - Samples demonstrating the use of various Fuse and FuseJS APIs.
 - [Tour De Fuse](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse.
 
